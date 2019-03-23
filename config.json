@@ -1,0 +1,9 @@
+{
+  "neo4j_credentials":
+  {
+    "username": "neo4j",
+    "password": "nooneknows"
+  },
+  "path_to_data": "../asoiaf/data/",
+  "book_to_analyse": "book1"
+}
